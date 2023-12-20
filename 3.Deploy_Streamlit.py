@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-#streamline run file_name in cmd.
+#streamlit run file_name in cmd.
 st.title('title-> hello world')
 st.header('header-> hello world')
 st.subheader('sub-header-> hello world')
